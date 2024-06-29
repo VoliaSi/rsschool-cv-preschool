@@ -1,17 +1,20 @@
 # Volha Sidoryk
 
 ## Java developer
-==========================================
+------------------------
 ### Contact Information
+
 
 E-mail:  kresiko@gmail.com
 [LinkedIn](https://www.linkedin.com/in/volha-sidoryk-18a26a90/)
 -----------------------
 ### Briefely About Myself
 
+
 I have got 10+ years' experience in various IT roles  + 2 years as Java developer.
 -----------------------
 ### Skills
+
 
 * Knowledge of Java (8, 11, 17), SQL, Maven, Git, AWS, Junit, Mockito, AssertJ, REST, Spring, Spring Boot, Micronaut, HTML, Hibernate, Kafka Streams, Elastic Search, microservices
 * 2 years’ Java development experience;
@@ -24,6 +27,8 @@ I have got 10+ years' experience in various IT roles  + 2 years as Java develope
 * Software testing and improvement.
 -------------------------
 ### Code Example
+
+
 ```
  public List<Skill> completeJavaToFullstack(List<Skill> skills) {
         skills.add(completeJavaScriptCourse());
@@ -36,10 +41,12 @@ I have got 10+ years' experience in various IT roles  + 2 years as Java develope
 --------------------------
 ### Education
 
+
 1991-1996 Belarusian State University, Department of Mechanics and Mathematics, Minsk. Mathematician (diploma), Mathematician-economist (additional qualification, certificate) 
 2021 (8 months) Epam MJC School, Java Web Development
 --------------------------
 ### Languages
+
 
 Belarusian (native), Russian (native speaker), English (fluent), Lithuanian (A2)
 --------------------------
