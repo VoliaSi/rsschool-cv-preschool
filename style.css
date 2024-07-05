@@ -18,22 +18,33 @@
   }
   ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 10ptx;
+    padding: 10 ptx;
   }
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    line-height: 50px;
+    list-style: none;
+  }
+
   .heading{
       display: flex;
       justify-content: space-around;
       background-color: #a8a095;
     }
-    .heading.flex .fixedColumn {
-      width: 90px;
-    }
-    
-    .heading.flex .flexibleColumn {
-      flex: 1;
-    }
  
+    .container {
+      max-width: 1440px;
+      margin: 0 auto;
+    }
+
+    pre code {
+      display: block;
+      padding: 1px;
+    }
 
   .header{
     flex-shrink: 0;
