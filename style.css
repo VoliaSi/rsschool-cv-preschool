@@ -1,6 +1,64 @@
   body {
-    background-color: #89CFF0;
+    display: flex;
+    flex-direction: column;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #F0F8FF;
   }
   h1 {
-    color: #191970;
+    color: #170966;
+  }
+  h2 {
+    color: #170966;
+    font-family: Garamond;
+  }
+  h3 {
+    color: #4937ae;
+  }
+  ul {
+    list-style-type: none;
+    margin: 10ptx;
+    padding: 10 ptx;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    line-height: 50px;
+    list-style: none;
+  }
+
+  .heading{
+      display: flex;
+      justify-content: space-around;
+      background-color: #a8a095;
+    }
+ 
+    .container {
+      max-width: 1440px;
+      margin: 0 auto;
+    }
+
+    pre code {
+      display: block;
+      padding: 1px;
+    }
+
+  .header{
+    flex-shrink: 0;
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+  .main{
+    flex-grow: 1;
+  .heading{
+    display: flex;
+  }
+
+  }
+  .footer{
+    flex-shrink: 0;
   }
